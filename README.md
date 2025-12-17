@@ -1,8 +1,5 @@
 
 ## 👩‍💻 About me  
-- A passionate **Back-end developer**  
-- I enjoy **reading books** in my free time  
-- Currently learning **more about Back-end development**  
 
 ---
 
